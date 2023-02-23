@@ -3,7 +3,7 @@
 
 
 
-- 👋 Hi, I’m @theod2
+- 👋 Hi, I’m Théo
 
 - 👀 I’m interested in maths, physics and computer science.
 
