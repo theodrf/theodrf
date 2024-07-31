@@ -7,9 +7,9 @@
 
 - 👀 I’m interested in maths, physics and computer science.
 
-- 🌱 I’m currently in MPSI
+- 🌱 Student at INSA
 
-- 📫 How to reach me : Théo#9386 on discord
+- 📫 How to reach me : theo.drf on discord
 
 <!---
 
